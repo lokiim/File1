@@ -1,3 +1,4 @@
 print("good Morning")
 print("welcome to stc")
-print("hi welcome")
+print("hi")
+print("welcome")
